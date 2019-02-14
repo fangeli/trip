@@ -1,0 +1,8 @@
+C:\src\Trip1.5\TripMakerJson\bin\Debug\TripMakerJson.dll
+C:\src\Trip1.5\TripMakerJson\bin\Debug\TripMakerJson.pdb
+C:\src\Trip1.5\TripMakerJson\bin\Debug\Newtonsoft.Json.dll
+C:\src\Trip1.5\TripMakerJson\bin\Debug\Newtonsoft.Json.xml
+C:\src\Trip1.5\TripMakerJson\obj\Debug\TripMakerJson.csproj.CoreCompileInputs.cache
+C:\src\Trip1.5\TripMakerJson\obj\Debug\TripMakerJson.dll
+C:\src\Trip1.5\TripMakerJson\obj\Debug\TripMakerJson.pdb
+C:\src\Trip1.5\TripMakerJson\obj\Debug\TripMakerJson.csprojResolveAssemblyReference.cache

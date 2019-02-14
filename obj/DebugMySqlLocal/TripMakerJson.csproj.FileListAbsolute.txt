@@ -1,0 +1,8 @@
+C:\src\Trip1.5\TripMakerJson\bin\DebugMySqlLocal\TripMakerJson.dll
+C:\src\Trip1.5\TripMakerJson\bin\DebugMySqlLocal\TripMakerJson.pdb
+C:\src\Trip1.5\TripMakerJson\bin\DebugMySqlLocal\Newtonsoft.Json.dll
+C:\src\Trip1.5\TripMakerJson\bin\DebugMySqlLocal\Newtonsoft.Json.pdb
+C:\src\Trip1.5\TripMakerJson\bin\DebugMySqlLocal\Newtonsoft.Json.xml
+C:\src\Trip1.5\TripMakerJson\obj\DebugMySqlLocal\TripMakerJson.csproj.CoreCompileInputs.cache
+C:\src\Trip1.5\TripMakerJson\obj\DebugMySqlLocal\TripMakerJson.dll
+C:\src\Trip1.5\TripMakerJson\obj\DebugMySqlLocal\TripMakerJson.pdb
